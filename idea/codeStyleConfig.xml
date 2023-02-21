@@ -2,7 +2,7 @@
 	<option name="AUTODETECT_INDENTS" value="false"/>
 	<option name="OTHER_INDENT_OPTIONS">
 		<value>
-			<option name="USE_TAB_CHARACTER" />
+			<option name="USE_TAB_CHARACTER" value="true"/>
 		</value>
 	</option>
 	<option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50"/>
